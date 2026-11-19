@@ -1,2 +1,2 @@
-Apoio ao Diagnóstico de Câncer de Mama (Maligno vs. Benigno) a partir de características celulares de exames de imagem.
-(Breast Cancer Wisconsin (Diagnostic) Data Set)
+APOIO AO DIAGNÓSTICO DE CÂNCER DE MAMA (MALIGNO VS. BENIGNO) A PARTIT DE CARACTERÍSTICAS CELULARES DE EXAMES DE IMAGEM.
+(Breast Cancer Wisconsin -Diagnostic- Data Set)
